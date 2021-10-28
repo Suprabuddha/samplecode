@@ -13,7 +13,7 @@ public class SamplecodeController {
     public String sayHello(){
 
         logger.trace("Inside Controller");
-        return "Welcome to Azure Web App in the Production site version 1.0";
+        return "Welcome to Azure Web App in the Production site version 2.0";
     }
 
 }
